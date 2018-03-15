@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Float</string>
+    <string name="decimalHint">The decimal number:</string>
+    <string name="decimalPart">.</string>
+    <string name="decimalDigits">+-.0123456789</string>
+    <string name="floatHint">32-bit single precision floating-point number:</string>
+    <string name="floatDigits">01</string>
+    <dimen name="textFont">20sp</dimen>
+    <dimen name="numFont">24sp</dimen>
+</resources>
